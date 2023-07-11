@@ -1,0 +1,41 @@
+/*LOGO*/
+.logo img {
+    height: 80px; /* Adjust the height as needed */
+    width: auto; /* Maintain the aspect ratio */
+    border-radius: 50%;
+    
+  }
+  
+.logo {
+    display: inline-block;
+    margin-right: 5px; /* Adjust the spacing between the logo and menu items */
+  }
+
+/*NAVIGATION*/
+nav {
+  background-color: #fff; /* #89AA2F;*/
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  padding: 20px 30px;
+  text-decoration: none;
+  color: #000000;
+}
+
+nav ul li a:hover {
+  background-color: #529408c9;
+}
